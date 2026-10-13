@@ -1,0 +1,913 @@
+[
+  {
+    "description": "Gray acanthus scroll with a copper vase, red flower and a seated bearded grotesque playing a blue wind instrument. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "vase",
+      "scroll",
+      "leaf",
+      "flower",
+      "figure",
+      "instrument"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gray",
+      "brown",
+      "green",
+      "gold",
+      "red",
+      "blue"
+    ],
+    "composition": "single-ornament",
+    "name": "acanthus-scroll-with-copper-vase-and-seated-wind-player",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2006-15-a",
+    "png": "png/acanthus-scroll-with-copper-vase-and-seated-wind-player.png",
+    "webp": "webp/acanthus-scroll-with-copper-vase-and-seated-wind-player.webp",
+    "width": 7787,
+    "height": 2376,
+    "png_bytes": 18872955,
+    "webp_bytes": 13147434,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/acanthus-scroll-with-copper-vase-and-seated-wind-player.png",
+        "webp": "webp/128/acanthus-scroll-with-copper-vase-and-seated-wind-player.webp",
+        "width": 128,
+        "height": 39,
+        "png_bytes": 11552,
+        "webp_bytes": 9656
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/acanthus-scroll-with-copper-vase-and-seated-wind-player.png",
+        "webp": "webp/256/acanthus-scroll-with-copper-vase-and-seated-wind-player.webp",
+        "width": 256,
+        "height": 78,
+        "png_bytes": 37275,
+        "webp_bytes": 29886
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/acanthus-scroll-with-copper-vase-and-seated-wind-player.png",
+        "webp": "webp/512/acanthus-scroll-with-copper-vase-and-seated-wind-player.webp",
+        "width": 512,
+        "height": 156,
+        "png_bytes": 128506,
+        "webp_bytes": 96920
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/acanthus-scroll-with-copper-vase-and-seated-wind-player.png",
+        "webp": "webp/768/acanthus-scroll-with-copper-vase-and-seated-wind-player.webp",
+        "width": 768,
+        "height": 234,
+        "png_bytes": 269306,
+        "webp_bytes": 200938
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Initial E with Ornamental Border Containing a Seated Satyr and a Bird Eating Grapes (recto)",
+      "object_identifier": "2006.15.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2006.15.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "23bcaa627af03969a16a61510d2304b2d15e725469eaa2e212eecdb78e179bbe",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2006.15.a/2006.15.a_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original source-visible independent ornament or contacting figure group. No seamless repeat inferred. Exact original source bounds and extraction prompt retained; no unrelated page letters. Source-derived transparency will be reviewed against native scan.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2006-15-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Initial E with Ornamental Border Containing a Seated Satyr and a Bird Eating Grapes (recto) (cma-2006-15-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9017,
+      "height": 10774
+    },
+    "master_longest_dimension_cap": 7787,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A connected gray acanthus network spreads three large curled lobes and smaller folded leaves across the lower margin. Part of the May Calendar floral ornaments set.",
+    "categories": [
+      "floral",
+      "scrollwork"
+    ],
+    "subjects": [
+      "acanthus",
+      "leaf",
+      "scroll",
+      "curl",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gray",
+      "cream",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "connected-gray-acanthus-network-with-three-curled-lobes",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-65-a",
+    "png": "png/connected-gray-acanthus-network-with-three-curled-lobes.png",
+    "webp": "webp/connected-gray-acanthus-network-with-three-curled-lobes.webp",
+    "width": 1724,
+    "height": 1080,
+    "png_bytes": 1663395,
+    "webp_bytes": 1162002,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/connected-gray-acanthus-network-with-three-curled-lobes.png",
+        "webp": "webp/128/connected-gray-acanthus-network-with-three-curled-lobes.webp",
+        "width": 128,
+        "height": 80,
+        "png_bytes": 21542,
+        "webp_bytes": 14802
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/connected-gray-acanthus-network-with-three-curled-lobes.png",
+        "webp": "webp/256/connected-gray-acanthus-network-with-three-curled-lobes.webp",
+        "width": 256,
+        "height": 160,
+        "png_bytes": 64970,
+        "webp_bytes": 45640
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/connected-gray-acanthus-network-with-three-curled-lobes.png",
+        "webp": "webp/512/connected-gray-acanthus-network-with-three-curled-lobes.webp",
+        "width": 512,
+        "height": 321,
+        "png_bytes": 204714,
+        "webp_bytes": 143428
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/connected-gray-acanthus-network-with-three-curled-lobes.png",
+        "webp": "webp/768/connected-gray-acanthus-network-with-three-curled-lobes.webp",
+        "width": 768,
+        "height": 481,
+        "png_bytes": 413001,
+        "webp_bytes": 293814
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Calendar Page for May (recto)",
+      "object_identifier": "2011.65.a",
+      "date": "c. 1510",
+      "record_url": "https://clevelandart.org/art/2011.65.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "9c05df87df5be107cc387fca4fbc7dc5795487b45243f46e82f9968f9e3a44dd",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.65.a/2011.65.a_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole original contacting three-curl gray acanthus network, including its connected upper-right folded terminal and source-visible lower tip. Exterior gilt field, independent green foliage, paper and page rules are transparent. Native scan RGB retained at original scale, with continuous edge alpha; no invented hidden tips or SVG approximation.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-2011-65-a-set",
+        "name": "May Calendar floral ornaments"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5038,
+      "height": 7499
+    },
+    "master_longest_dimension_cap": 1724,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Long red and gray pointed leaf ornament with a blue central bulb and red petal collar. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "leaf",
+      "scroll",
+      "petal"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "red",
+      "gray",
+      "blue"
+    ],
+    "composition": "single-ornament",
+    "name": "elongated-red-gray-leaf-scroll-with-blue-center",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2006-15-a",
+    "png": "png/elongated-red-gray-leaf-scroll-with-blue-center.png",
+    "webp": "webp/elongated-red-gray-leaf-scroll-with-blue-center.webp",
+    "width": 6362,
+    "height": 590,
+    "png_bytes": 3517148,
+    "webp_bytes": 2404666,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/elongated-red-gray-leaf-scroll-with-blue-center.png",
+        "webp": "webp/128/elongated-red-gray-leaf-scroll-with-blue-center.webp",
+        "width": 128,
+        "height": 12,
+        "png_bytes": 3210,
+        "webp_bytes": 3058
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/elongated-red-gray-leaf-scroll-with-blue-center.png",
+        "webp": "webp/256/elongated-red-gray-leaf-scroll-with-blue-center.webp",
+        "width": 256,
+        "height": 24,
+        "png_bytes": 9884,
+        "webp_bytes": 8628
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/elongated-red-gray-leaf-scroll-with-blue-center.png",
+        "webp": "webp/512/elongated-red-gray-leaf-scroll-with-blue-center.webp",
+        "width": 512,
+        "height": 47,
+        "png_bytes": 33291,
+        "webp_bytes": 26750
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/elongated-red-gray-leaf-scroll-with-blue-center.png",
+        "webp": "webp/768/elongated-red-gray-leaf-scroll-with-blue-center.webp",
+        "width": 768,
+        "height": 71,
+        "png_bytes": 70636,
+        "webp_bytes": 55610
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Initial E with Ornamental Border Containing a Seated Satyr and a Bird Eating Grapes (recto)",
+      "object_identifier": "2006.15.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2006.15.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "23bcaa627af03969a16a61510d2304b2d15e725469eaa2e212eecdb78e179bbe",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2006.15.a/2006.15.a_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original source-visible independent ornament or contacting figure group. No seamless repeat inferred. Exact original source bounds and extraction prompt retained; no unrelated page letters. Source-derived transparency will be reviewed against native scan.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2006-15-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Initial E with Ornamental Border Containing a Seated Satyr and a Bird Eating Grapes (recto) (cma-2006-15-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9017,
+      "height": 10774
+    },
+    "master_longest_dimension_cap": 6362,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A complete gray acanthus S scroll with curled and folded leaf terminals. Part of the May Calendar floral ornaments set.",
+    "categories": [
+      "floral",
+      "scrollwork"
+    ],
+    "subjects": [
+      "acanthus",
+      "leaf",
+      "scroll",
+      "curl"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gray",
+      "cream",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "gray-acanthus-s-scroll-with-curled-leaf-terminals",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-65-a",
+    "png": "png/gray-acanthus-s-scroll-with-curled-leaf-terminals.png",
+    "webp": "webp/gray-acanthus-s-scroll-with-curled-leaf-terminals.webp",
+    "width": 757,
+    "height": 2034,
+    "png_bytes": 1346475,
+    "webp_bytes": 933490,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/gray-acanthus-s-scroll-with-curled-leaf-terminals.png",
+        "webp": "webp/128/gray-acanthus-s-scroll-with-curled-leaf-terminals.webp",
+        "width": 48,
+        "height": 128,
+        "png_bytes": 13386,
+        "webp_bytes": 9152
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/gray-acanthus-s-scroll-with-curled-leaf-terminals.png",
+        "webp": "webp/256/gray-acanthus-s-scroll-with-curled-leaf-terminals.webp",
+        "width": 95,
+        "height": 256,
+        "png_bytes": 39407,
+        "webp_bytes": 28154
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/gray-acanthus-s-scroll-with-curled-leaf-terminals.png",
+        "webp": "webp/512/gray-acanthus-s-scroll-with-curled-leaf-terminals.webp",
+        "width": 191,
+        "height": 512,
+        "png_bytes": 122553,
+        "webp_bytes": 85332
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/gray-acanthus-s-scroll-with-curled-leaf-terminals.png",
+        "webp": "webp/768/gray-acanthus-s-scroll-with-curled-leaf-terminals.webp",
+        "width": 286,
+        "height": 768,
+        "png_bytes": 246391,
+        "webp_bytes": 173688
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Calendar Page for May (recto)",
+      "object_identifier": "2011.65.a",
+      "date": "c. 1510",
+      "record_url": "https://clevelandart.org/art/2011.65.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "9c05df87df5be107cc387fca4fbc7dc5795487b45243f46e82f9968f9e3a44dd",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.65.a/2011.65.a_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-2011-65-a-set",
+        "name": "May Calendar floral ornaments"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5038,
+      "height": 7499
+    },
+    "master_longest_dimension_cap": 2034,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Gray bird with spread wings contacting a long vine with green grapes, leaves and blue and red flowers. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "bird",
+      "grape",
+      "leaf",
+      "vine",
+      "flower",
+      "wing"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gray",
+      "green",
+      "blue",
+      "red",
+      "brown"
+    ],
+    "composition": "single-ornament",
+    "name": "gray-bird-among-grapes-on-long-floral-vine",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2006-15-a",
+    "png": "png/gray-bird-among-grapes-on-long-floral-vine.png",
+    "webp": "webp/gray-bird-among-grapes-on-long-floral-vine.webp",
+    "width": 1591,
+    "height": 7473,
+    "png_bytes": 12867918,
+    "webp_bytes": 8855804,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/gray-bird-among-grapes-on-long-floral-vine.png",
+        "webp": "webp/128/gray-bird-among-grapes-on-long-floral-vine.webp",
+        "width": 27,
+        "height": 128,
+        "png_bytes": 10245,
+        "webp_bytes": 8464
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/gray-bird-among-grapes-on-long-floral-vine.png",
+        "webp": "webp/256/gray-bird-among-grapes-on-long-floral-vine.webp",
+        "width": 55,
+        "height": 256,
+        "png_bytes": 34132,
+        "webp_bytes": 27440
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/gray-bird-among-grapes-on-long-floral-vine.png",
+        "webp": "webp/512/gray-bird-among-grapes-on-long-floral-vine.webp",
+        "width": 109,
+        "height": 512,
+        "png_bytes": 110745,
+        "webp_bytes": 86032
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/gray-bird-among-grapes-on-long-floral-vine.png",
+        "webp": "webp/768/gray-bird-among-grapes-on-long-floral-vine.webp",
+        "width": 164,
+        "height": 768,
+        "png_bytes": 223302,
+        "webp_bytes": 182222
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Initial E with Ornamental Border Containing a Seated Satyr and a Bird Eating Grapes (recto)",
+      "object_identifier": "2006.15.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2006.15.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "23bcaa627af03969a16a61510d2304b2d15e725469eaa2e212eecdb78e179bbe",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2006.15.a/2006.15.a_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original source-visible independent ornament or contacting figure group. No seamless repeat inferred. Exact original source bounds and extraction prompt retained; no unrelated page letters. Source-derived transparency will be reviewed against native scan.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2006-15-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Initial E with Ornamental Border Containing a Seated Satyr and a Bird Eating Grapes (recto) (cma-2006-15-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9017,
+      "height": 10774
+    },
+    "master_longest_dimension_cap": 7473,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Oval red and cream flower on a curved green stem with two green leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "red",
+      "cream",
+      "green",
+      "brown"
+    ],
+    "composition": "single-ornament",
+    "name": "lower-oval-red-cream-flower-and-two-green-leaves",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2006-15-a",
+    "png": "png/lower-oval-red-cream-flower-and-two-green-leaves.png",
+    "webp": "webp/lower-oval-red-cream-flower-and-two-green-leaves.webp",
+    "width": 536,
+    "height": 2411,
+    "png_bytes": 1242462,
+    "webp_bytes": 812484,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/lower-oval-red-cream-flower-and-two-green-leaves.png",
+        "webp": "webp/128/lower-oval-red-cream-flower-and-two-green-leaves.webp",
+        "width": 28,
+        "height": 128,
+        "png_bytes": 7317,
+        "webp_bytes": 6276
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/lower-oval-red-cream-flower-and-two-green-leaves.png",
+        "webp": "webp/256/lower-oval-red-cream-flower-and-two-green-leaves.webp",
+        "width": 57,
+        "height": 256,
+        "png_bytes": 23176,
+        "webp_bytes": 20674
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/lower-oval-red-cream-flower-and-two-green-leaves.png",
+        "webp": "webp/512/lower-oval-red-cream-flower-and-two-green-leaves.webp",
+        "width": 114,
+        "height": 512,
+        "png_bytes": 78680,
+        "webp_bytes": 59870
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/lower-oval-red-cream-flower-and-two-green-leaves.png",
+        "webp": "webp/768/lower-oval-red-cream-flower-and-two-green-leaves.webp",
+        "width": 171,
+        "height": 768,
+        "png_bytes": 166102,
+        "webp_bytes": 121186
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Initial E with Ornamental Border Containing a Seated Satyr and a Bird Eating Grapes (recto)",
+      "object_identifier": "2006.15.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2006.15.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "23bcaa627af03969a16a61510d2304b2d15e725469eaa2e212eecdb78e179bbe",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2006.15.a/2006.15.a_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original source-visible independent ornament or contacting figure group. No seamless repeat inferred. Exact original source bounds and extraction prompt retained; no unrelated page letters. Source-derived transparency will be reviewed against native scan.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2006-15-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Initial E with Ornamental Border Containing a Seated Satyr and a Bird Eating Grapes (recto) (cma-2006-15-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9017,
+      "height": 10774
+    },
+    "master_longest_dimension_cap": 2411,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two green leaves connected by a thin curved brown twig. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "leaf",
+      "twig"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "brown"
+    ],
+    "composition": "single-ornament",
+    "name": "middle-two-green-leaf-curved-twig",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2006-15-a",
+    "png": "png/middle-two-green-leaf-curved-twig.png",
+    "webp": "webp/middle-two-green-leaf-curved-twig.webp",
+    "width": 517,
+    "height": 1744,
+    "png_bytes": 782019,
+    "webp_bytes": 501546,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/middle-two-green-leaf-curved-twig.png",
+        "webp": "webp/128/middle-two-green-leaf-curved-twig.webp",
+        "width": 38,
+        "height": 128,
+        "png_bytes": 8302,
+        "webp_bytes": 7054
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/middle-two-green-leaf-curved-twig.png",
+        "webp": "webp/256/middle-two-green-leaf-curved-twig.webp",
+        "width": 76,
+        "height": 256,
+        "png_bytes": 25716,
+        "webp_bytes": 20594
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/middle-two-green-leaf-curved-twig.png",
+        "webp": "webp/512/middle-two-green-leaf-curved-twig.webp",
+        "width": 152,
+        "height": 512,
+        "png_bytes": 89517,
+        "webp_bytes": 67008
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/middle-two-green-leaf-curved-twig.png",
+        "webp": "webp/768/middle-two-green-leaf-curved-twig.webp",
+        "width": 228,
+        "height": 768,
+        "png_bytes": 187985,
+        "webp_bytes": 130138
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Initial E with Ornamental Border Containing a Seated Satyr and a Bird Eating Grapes (recto)",
+      "object_identifier": "2006.15.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2006.15.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "23bcaa627af03969a16a61510d2304b2d15e725469eaa2e212eecdb78e179bbe",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2006.15.a/2006.15.a_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original source-visible independent ornament or contacting figure group. No seamless repeat inferred. Exact original source bounds and extraction prompt retained; no unrelated page letters. Source-derived transparency will be reviewed against native scan.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2006-15-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Initial E with Ornamental Border Containing a Seated Satyr and a Bird Eating Grapes (recto) (cma-2006-15-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9017,
+      "height": 10774
+    },
+    "master_longest_dimension_cap": 1744,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Red trefoil flower with a curved thin green stem and two green leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "red",
+      "green",
+      "brown"
+    ],
+    "composition": "single-ornament",
+    "name": "upper-red-trefoil-flower-and-two-green-leaves",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2006-15-a",
+    "png": "png/upper-red-trefoil-flower-and-two-green-leaves.png",
+    "webp": "webp/upper-red-trefoil-flower-and-two-green-leaves.webp",
+    "width": 595,
+    "height": 2066,
+    "png_bytes": 858674,
+    "webp_bytes": 570924,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/upper-red-trefoil-flower-and-two-green-leaves.png",
+        "webp": "webp/128/upper-red-trefoil-flower-and-two-green-leaves.webp",
+        "width": 37,
+        "height": 128,
+        "png_bytes": 7742,
+        "webp_bytes": 6636
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/upper-red-trefoil-flower-and-two-green-leaves.png",
+        "webp": "webp/256/upper-red-trefoil-flower-and-two-green-leaves.webp",
+        "width": 74,
+        "height": 256,
+        "png_bytes": 23320,
+        "webp_bytes": 20964
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/upper-red-trefoil-flower-and-two-green-leaves.png",
+        "webp": "webp/512/upper-red-trefoil-flower-and-two-green-leaves.webp",
+        "width": 147,
+        "height": 512,
+        "png_bytes": 75865,
+        "webp_bytes": 58412
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/upper-red-trefoil-flower-and-two-green-leaves.png",
+        "webp": "webp/768/upper-red-trefoil-flower-and-two-green-leaves.webp",
+        "width": 221,
+        "height": 768,
+        "png_bytes": 156755,
+        "webp_bytes": 116472
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Initial E with Ornamental Border Containing a Seated Satyr and a Bird Eating Grapes (recto)",
+      "object_identifier": "2006.15.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2006.15.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "23bcaa627af03969a16a61510d2304b2d15e725469eaa2e212eecdb78e179bbe",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2006.15.a/2006.15.a_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original source-visible independent ornament or contacting figure group. No seamless repeat inferred. Exact original source bounds and extraction prompt retained; no unrelated page letters. Source-derived transparency will be reviewed against native scan.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2006-15-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Initial E with Ornamental Border Containing a Seated Satyr and a Bird Eating Grapes (recto) (cma-2006-15-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 9017,
+      "height": 10774
+    },
+    "master_longest_dimension_cap": 2066,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  }
+]
